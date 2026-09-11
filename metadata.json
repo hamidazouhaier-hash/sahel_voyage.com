@@ -1,0 +1,6 @@
+{
+  "name": "Sahel Voyage",
+  "description": "Découvrez la Tunisie authentique avec Sahel Voyage : circuits sahariens, excursions privées, visites culturelles et aventures au départ de Sousse, Hammamet et Tunis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
